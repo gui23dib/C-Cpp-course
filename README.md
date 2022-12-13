@@ -1,2 +1,2 @@
-# C-C--course
+# C-Cpp-course
 Advanced C/C++ skills course by Alura
